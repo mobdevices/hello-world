@@ -1,5 +1,5 @@
 # hello-world
-Just another Repo
+Just another Repo helllo-world project
 
 Hi,
 this is to provide some info about me but that's enough for now.
